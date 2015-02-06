@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EFA626B-B703-438E-8683-B36696D7D0E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Stormy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24AEA4042228F7A81220F286AF525F4CD12D5959</key>
+		<string>github.com:nafu/treehouse-build-a-weather-app-with-swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Stormy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24AEA4042228F7A81220F286AF525F4CD12D5959</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:nafu/treehouse-build-a-weather-app-with-swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24AEA4042228F7A81220F286AF525F4CD12D5959</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24AEA4042228F7A81220F286AF525F4CD12D5959</string>
+			<key>IDESourceControlWCCName</key>
+			<string>treehouse-build-a-weather-app-with-swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
